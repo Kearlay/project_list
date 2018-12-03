@@ -3,10 +3,7 @@
  
 ## Natural Language Processing
 
-title                           | year| langauge 
---------------------------------| year|------------------------------------
-Market Prediction Based on News Articles | 2018 | Python
-
+<a href="www.naver.com">Market Prediction Based on News Articles</a>
 
 ## Market Data Mining
 ## Deep Learning
