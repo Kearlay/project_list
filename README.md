@@ -1,3 +1,9 @@
-<h1 align='center'> project_list <h1>
+<h1 align='center'> Project List <h1>
  
+ 
+## Natural Language Processing
+## Market Data Mining
+## Deep Learning
 ## Statistics
+## Image Processing
+## General
