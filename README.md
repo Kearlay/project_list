@@ -1,4 +1,4 @@
-<h1 align='center'> Project List <h1>
+<h1 align='center'> Project List </h1>
  
  
 #### - <a href="https://github.com/Kearlay/research/blob/master/eeg_tensorflow.ipynb">
