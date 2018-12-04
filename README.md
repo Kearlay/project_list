@@ -17,3 +17,6 @@
 
 
 #### - <a href="https://github.com/Kearlay/data_analyis/blob/master/customer_call/customer_call_analysis.ipynb">Customer Service Data Analysis</a><br> Analyzed the performance of customer service over multiple regions, agents, and supervisors. I tried to extract meaning business insights from the dataset. Predictive modeling and experimental designs were applied.
+
+
+#### - <a href="https://github.com/Kearlay/dna_disease_classification/blob/master/dna_disease_classification.ipynb">DNA Data Analytics</a><br> This problem simulates two datasets (DS) of patients whose blood samples whose cell-free DNA has been investigated. I built a custom library to classify those with disease A or B.
