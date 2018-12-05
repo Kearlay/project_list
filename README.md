@@ -7,7 +7,7 @@
 
  - <a href="https://github.com/Kearlay/lending_club_classification/blob/master/lending_club_classification.ipynb"> Lending Club Default Prediction </a> <br> Applied feature engineering and visualization techniques to explore a massive scale of lending club history data– Built classifiers to analyze default risk of loans and achieved over 96% accuracy
 
- - <a href="https://github.com/Kearlay/market_data_mining/blob/master/market_data_mining.ipynb">Stock Market Data Mining</a><br> full historical daily price and volume data for all US-based stocks and ETFs trading on the NYSE, NASDAQ, and NYSE MKT. Constructed a time series model (ARMA) and neural network (LSTM) to model closing prices of stocks over the last decades.
+ - <a href="https://github.com/Kearlay/market_data_mining/blob/master/market_data_mining.ipynb">Stock Market Data Mining</a><br> ㄹull historical daily price and volume data for all US-based stocks and ETFs trading on the NYSE, NASDAQ, and NYSE MKT. I constructed a time series model (ARMA) and neural network (LSTM) to model closing prices of stocks over the last decades.
 
  - <a href="https://github.com/Kearlay/data_analyis/blob/master/data_analysis.ipynb">MTA Entrance \& Exit Data Exploration</a><br> Cleaned up and analyzed extremely unorganized datasets with more than 12MM time points. Identified outliers applying stochastic distribution and predicted which subway stations did not operate at full capacity
 
