@@ -11,12 +11,14 @@
 
  - <a href="https://github.com/Kearlay/data_analyis/blob/master/data_analysis.ipynb">MTA Entrance \& Exit Data Exploration</a><br> Cleaned up and analyzed extremely unorganized datasets with more than 12MM time points. Identified outliers applying stochastic distribution and predicted which subway stations did not operate at full capacity
 
- - <a href="https://github.com/Kearlay/NLP-project">Natural Language Processing Projects</a><br> This repository contains the python implementation of the recommender systems and sentimental analysis, especially focusing on collaborative filtering. I am attempting to achieve state-of-the-art performances in NLP Collaborated with researchers at Columbia University Medical Center.
-
-- <a href="https://github.com/Kearlay/vision">Computer Vision Projects</a><br> The goal of this project was to build machine learning models to help automate the process of classification and ships identification in multispectral satellite images. In this project, I processed and analyzed high-resolution raster dataset, built convolutional neural network (CNN) models (Grayscale input and RGB input) and deployed it in AWS.
-
 
  - <a href="https://github.com/Kearlay/data_analyis/blob/master/customer_call/customer_call_analysis.ipynb">Customer Service Data Analysis</a><br> Analyzed the performance of customer service over multiple regions, agents, and supervisors. I tried to extract meaning business insights from the dataset. Predictive modeling and experimental designs were applied.
 
 
  - <a href="https://github.com/Kearlay/dna_disease_classification/blob/master/dna_disease_classification.ipynb">DNA Data Analytics</a><br> This problem simulates two datasets (DS) of patients whose blood samples whose cell-free DNA has been investigated. I built a custom library to classify those with disease A or B.
+ 
+ - <a href="https://github.com/Kearlay/NLP-project">Natural Language Processing Projects</a><br> This repository contains the python implementation of the recommender systems and sentimental analysis, especially focusing on collaborative filtering. I am attempting to achieve state-of-the-art performances in NLP Collaborated with researchers at Columbia University Medical Center.
+
+- <a href="https://github.com/Kearlay/vision">Computer Vision Projects</a><br> The goal of this project was to build machine learning models to help automate the process of classification and ships identification in multispectral satellite images. In this project, I processed and analyzed high-resolution raster dataset, built convolutional neural network (CNN) models (Grayscale input and RGB input) and deployed it in AWS.
+
+
