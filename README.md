@@ -21,6 +21,9 @@
 - <a href="https://github.com/Kearlay/time_series/blob/master/monthly_car_sales.ipynb">Monthly Car Sales Forecasting
 </a><br>
 
+- <a href="https://github.com/Kearlay/time_series/blob/master/wikipedia.ipynb">Web Traffic Time Series Forecasting
+</a><br>
+
 <h2 align='left'> Others </h2>
 
  - <a href="https://github.com/Kearlay/lending_club_classification/blob/master/lending_club_classification.ipynb"> Lending Club Default Prediction </a> <br> Applied feature engineering and visualization techniques to explore a massive scale of lending club history data– Built classifiers to analyze default risk of loans and achieved over 96% accuracy
