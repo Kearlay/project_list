@@ -1,9 +1,5 @@
 <h1 align='center'> Project List </h1>
 
-<h2 align='left'> Research </h2>
-
-- <a href="https://github.com/Kearlay/research/blob/master/eeg_tensorflow.ipynb">Brain Signal EEG Classification </a><br> Applied stacked CNN, RNN architectures to decode spatial-temporal pattern of multivariate time series brain data. Outperformed state-of-the-art algorithms from the last several years with over 90% accuracy for 5-class classification
-
 <h2 align='left'> NLP </h2>
 
 - <a href="https://github.com/Kearlay/market_prediction/blob/master/market_prediction_news.ipynb"> Market Prediction Based on News Articles </a><br>Processed unstructured text data to predict stock market movements from news headlines. Achieved performance better than a random classification and analyzed pros and cons of vectorization algorithms
@@ -27,6 +23,10 @@
 
 - <a href="https://github.com/Kearlay/time_series/blob/master/wikipedia.ipynb">Web Traffic Time Series Forecasting
 </a><br>
+
+<h2 align='left'> Research </h2>
+
+- <a href="https://github.com/Kearlay/research/blob/master/eeg_tensorflow.ipynb">Brain Signal EEG Classification </a><br> Applied stacked CNN, RNN architectures to decode spatial-temporal pattern of multivariate time series brain data. Outperformed state-of-the-art algorithms from the last several years with over 90% accuracy for 5-class classification
 
 <h2 align='left'> Others </h2>
 
