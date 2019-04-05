@@ -2,7 +2,7 @@
 
 <h2 align='left'> NLP </h2>
 
-- <a href="https://nbviewer.jupyter.org/github/Kearlay/market_prediction/blob/master/market_prediction_news.ipynb"> Market Prediction Based on News Articles </a><br>Processed unstructured text data to predict stock market movements from news headlines. This version is less than a half of the whole script. The whole project apply Spark Streaming to import real-time texture data from Twitter API. Then features are selected using Boruta.
+- <a href="https://nbviewer.jupyter.org/github/Kearlay/market_prediction/blob/master/market_prediction_news.ipynb"> Market Prediction Based on News Articles - This version is less than a half of the whole script </a><br>Processed unstructured text data to predict stock market movements from news headlines. The whole project apply Spark Streaming to import real-time texture data from Twitter API. Then features are selected using Boruta.
 
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/NLP-project/blob/master/rental_listing.ipynb">Rental Listing Interest Levels Prediction</a><br>
 
