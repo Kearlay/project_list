@@ -2,8 +2,6 @@
 
 <h2 align='left'> NLP </h2>
 
-- <a href="https://nbviewer.jupyter.org/github/Kearlay/market_prediction/blob/master/market_prediction_news.ipynb"> Market Prediction Based on News Articles </a><br>Processed unstructured text data to predict stock market movements from news headlines. Achieved performance better than a random classification and analyzed pros and cons of vectorization algorithms
-
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/NLP-project/blob/master/rental_listing.ipynb">Rental Listing Interest Levels Prediction</a><br>
 
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/NLP-project/blob/master/toxic_classification.ipynb">Wikipedia Toxic Comments Classification</a><br>
