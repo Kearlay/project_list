@@ -1,5 +1,14 @@
 <h1 align='center'> Project List </h1>
 
+<h2 align='left'> Research </h2>
+
+- <a href="https://nbviewer.jupyter.org/github/Kearlay/research/blob/master/eeg_tensorflow.ipynb">Brain Signal EEG Classification </a><br> Applied stacked CNN, RNN architectures to decode spatial-temporal pattern of multivariate time series brain data. Outperformed state-of-the-art algorithms from the last several years with over 90% accuracy for 5-class classification
+
+  
+<h2 align='left'> Image Processing </h2>
+
+  - <a href="https://nbviewer.jupyter.org/github/Kearlay/vision/blob/master/cifar_10_project.ipynb">CIFAR-10 Classification</a><br> 
+
 <h2 align='left'> NLP </h2>
 
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/market_prediction/blob/master/market_prediction_news.ipynb"> Market Prediction Based on News Articles - This version is less than a half of the whole script </a><br>Processed unstructured text data to predict stock market movements from news headlines. The whole project apply Spark Streaming to import real-time texture data from Twitter API. Then features are selected using Boruta.
@@ -26,15 +35,6 @@
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/time_series/blob/master/wikipedia.ipynb">Web Traffic Time Series Forecasting
 </a><br>
 
-<h2 align='left'> Research </h2>
-
-- <a href="https://nbviewer.jupyter.org/github/Kearlay/research/blob/master/eeg_tensorflow.ipynb">Brain Signal EEG Classification </a><br> Applied stacked CNN, RNN architectures to decode spatial-temporal pattern of multivariate time series brain data. Outperformed state-of-the-art algorithms from the last several years with over 90% accuracy for 5-class classification
-
-  
-<h2 align='left'> Image Processing </h2>
-
-  - <a href="https://nbviewer.jupyter.org/github/Kearlay/vision/blob/master/cifar_10_project.ipynb">CIFAR-10 Classification</a><br> 
-  
 <h2 align='left'> Others </h2>
 
  - <a href="https://nbviewer.jupyter.org/github/Kearlay/lending_club_classification/blob/master/lending_club_classification.ipynb"> Lending Club Default Prediction </a> <br> Applied feature engineering and visualization techniques to explore a massive scale of lending club history data– Built classifiers to analyze default risk of loans and achieved over 96% accuracy
