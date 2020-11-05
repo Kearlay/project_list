@@ -2,10 +2,9 @@
 
 <h2 align='left'> Research </h2>
 
+- <a href="https://github.com/Kearlay/project_list/blob/master/OHBM.pdf">OHBM International Conference - Motor Imagery Classification using Cascade ResNet-LSTM </a><br> Adopted a cascade Convolutional Neural Network – Recurrent Neural Network (CNN-RNN) structure (Karpathy et al., 2015) (Zhang et al., 2018) to capture spatial-temporal dynamics for imaginary motor movements. 
+
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/research/blob/master/eeg_tensorflow.ipynb">Brain Signal EEG Classification </a><br> Applied stacked CNN, RNN architectures to decode spatial-temporal pattern of multivariate time series brain data. Outperformed state-of-the-art algorithms from the last several years with over 90% accuracy for 5-class classification
-
-- <a href="https://ww5.aievolution.com/hbm1901/index.cfm?do=abs.viewAbs&abs=5022">OHBM International Conference - Motor Imagery Classification using Cascade ResNet-LSTM </a><br> Adopted a cascade Convolutional Neural Network – Recurrent Neural Network (CNN-RNN) structure (Karpathy et al., 2015) (Zhang et al., 2018) to capture spatial-temporal dynamics for imaginary motor movements. 
-
   
 <h2 align='left'> Image Processing </h2>
 
