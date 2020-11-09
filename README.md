@@ -13,8 +13,7 @@
 <h2 align='left'> Machine Learning </h2>
 
  - <a href="https://nbviewer.jupyter.org/github/Kearlay/lending_club_classification/blob/master/lending_club_classification.ipynb"> Lending Club Default Prediction </a> <br> Applied feature engineering and visualization techniques to explore a massive scale of lending club history data– Built classifiers to analyze default risk of loans and achieved over 96% accuracy
-
- - <a href="https://nbviewer.jupyter.org/github/Kearlay/data_analyis/blob/master/data_analysis.ipynb">MTA Entrance \& Exit Data Exploration</a><br> Cleaned up and analyzed extremely unorganized datasets with more than 12MM time points. Identified outliers applying stochastic distribution and predicted which subway stations did not operate at full capacity
+ 
  
   - <a href="https://nbviewer.jupyter.org/github/Kearlay/dna_disease_classification/blob/master/dna_disease_classification.ipynb">DNA Data Analytics</a><br> This problem simulates two datasets (DS) of patients whose cell-free DNA in blood samples has been investigated. I built a custom library to classify those with disease A or B.
 
