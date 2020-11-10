@@ -11,12 +11,14 @@ In this we have to see two things
 First we have see which feature has more impact on car sales and carry out result of this
 Secondly we have to train the classifier and to predict car sales and check the accuracy of the prediction.
 
+- <a href="https://nbviewer.jupyter.org/github/Kearlay/time_series/blob/master/wikipedia.ipynb">Web Traffic Time Series Forecasting
+</a><br>
+For each time series, the data provide the name of the article as well as the type of traffic that this time series represent (all, mobile, desktop, spider). I will use this metadata and any other publicly available data to make predictions. Unfortunately, the data source for this dataset does not distinguish between traffic values of zero and missing values. A missing value may mean the traffic was zero or that the data is not available for that day.
+
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/time_series/blob/master/household_electricity_consumption.ipynb">Household Power Consumption Forecasting</a><br>
 This archive contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
 
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/time_series/blob/master/minimum_daily_temp.ipynb">Minimum Daily Temperature Analysis
 </a><br>
 
-- <a href="https://nbviewer.jupyter.org/github/Kearlay/time_series/blob/master/wikipedia.ipynb">Web Traffic Time Series Forecasting
-</a><br>
 
