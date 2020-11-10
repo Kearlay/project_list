@@ -6,6 +6,10 @@
  
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/time_series/blob/master/monthly_car_sales.ipynb">Monthly Car Sales Forecasting
 </a><br>
+This is the Car sales data set which include information about different cars . This data set is being taken from the Analytixlabs for the purpose of prediction
+In this we have to see two things
+First we have see which feature has more impact on car sales and carry out result of this
+Secondly we have to train the classifier and to predict car sales and check the accuracy of the prediction.
 
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/time_series/blob/master/household_electricity_consumption.ipynb">Household Power Consumption Forecasting</a><br>
 
