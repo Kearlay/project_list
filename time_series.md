@@ -12,6 +12,7 @@ First we have see which feature has more impact on car sales and carry out resul
 Secondly we have to train the classifier and to predict car sales and check the accuracy of the prediction.
 
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/time_series/blob/master/household_electricity_consumption.ipynb">Household Power Consumption Forecasting</a><br>
+This archive contains 2075259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
 
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/time_series/blob/master/minimum_daily_temp.ipynb">Minimum Daily Temperature Analysis
 </a><br>
