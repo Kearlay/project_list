@@ -2,7 +2,8 @@
 <h2 align='left'> Time Series Forecasting </h2>
 
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/market_data_mining/blob/master/market_data_mining.ipynb">Stock Price Modeling</a><br> 
-
+ this notebook, I will try to build two predictive models for forecasting. The first one is a conventional example. ARIMA and SARIMAX models are suggested to fit the stock prices of Exxon Mobile. The second approach is more trendy and by far one of the most complex model for time series forecasting. A deep neural network with LSTM layers are trained on the entire dataset, i.e., stock prices records of over thousands of companies. Lastly, I will compare the pros and cons of the two models.
+ 
 - <a href="https://nbviewer.jupyter.org/github/Kearlay/time_series/blob/master/monthly_car_sales.ipynb">Monthly Car Sales Forecasting
 </a><br>
 
